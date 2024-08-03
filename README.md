@@ -74,7 +74,7 @@
     <div class="container">
         <div class="header">
             <img src="https://via.placeholder.com/150" alt="Profile Picture">
-            <h1>John Doe</h1>
+            <h1>Sateesh dasari</h1>
             <p>Senior Software Engineer</p>
         </div>
 
@@ -109,7 +109,7 @@
         <div class="section">
             <h2>Contact</h2>
             <ul class="contact-info">
-                <li>Email: <a href="mailto:john.doe@example.com">john.doe@example.com</a></li>
+                <li>Email: <a href="mailto: dasarisateesh56@gmail.com">john.doe@example.com</a></li>
                 <li>LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">linkedin.com/in/johndoe</a></li>
                 <li>GitHub: <a href="https://github.com/johndoe" target="_blank">github.com/johndoe</a></li>
             </ul>
